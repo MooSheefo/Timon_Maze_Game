@@ -11,3 +11,7 @@ This is a course project, you play as Timon navigating a maze to reach his ultim
 
 ![2](https://github.com/user-attachments/assets/f6b9edf9-0a95-4089-863b-472ebbd09df3)
 
+# Gameplay Video:
+https://drive.google.com/file/d/1Gv9NTgY8wzyKxSXTv_M2boezoGdpkxp-/view?usp=drive_link
+
+
